@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/emi-calculator/static/css/main.020b3b1f.css",
+    "main.js": "/emi-calculator/static/js/main.3318dabd.js",
+    "index.html": "/emi-calculator/index.html",
+    "main.020b3b1f.css.map": "/emi-calculator/static/css/main.020b3b1f.css.map",
+    "main.3318dabd.js.map": "/emi-calculator/static/js/main.3318dabd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.020b3b1f.css",
+    "static/js/main.3318dabd.js"
+  ]
+}
